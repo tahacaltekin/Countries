@@ -3,7 +3,7 @@
 In this application you can display the flags and names of countries on your homepage. </br>
 You can learn the languages, currencies and capitals of the countries by going to their details.
 
-<h1>Tools and Jetpack 🚀</h1>
+<h3>Libraries and Tools 🚀</h3>
 - MVVM </br>
 - Jetpack Navigation </br>
 - Retrofit </br>
